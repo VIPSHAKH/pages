@@ -1,2 +1,1 @@
-# E-Commerce-2nd
-Going online, landing on a seller's website, selecting something, and arranging for its delivery. The buyer either pays for the good or service online ...
+
