@@ -19,7 +19,7 @@ function Signup() {
     image: ""
   });
 
-  console.log(data);
+
   const handleShowPassword = () => {
     setShowPassword((preve) => !preve);
   };
